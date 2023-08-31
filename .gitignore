@@ -1,3 +1,5 @@
 github-ci.yml
 
 Dockerfile
+
+.env
